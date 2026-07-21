@@ -1,7 +1,7 @@
 🌌 Aura Gallery
 A dynamic, responsive wallpaper web application built as a practical project to master foundational web development technologies (HTML5, CSS3, and JavaScript). Aura Gallery leverages the Unsplash API to provide users with a seamless, real-time image search experience alongside curated visual sections.
 
-🔗 [Live Demo Link](Provide your GitHub Pages URL here)
+🔗 [Live Demo Link]https://ayushpatel-hub.github.io/AuraGallery/
 
 🚀 Project Overview
 Aura Gallery was developed to bridge the gap between static design and dynamic user interaction. The application allows users to search for high-quality, high-resolution wallpapers on demand while displaying curated image collections across different thematic sections of the page.
